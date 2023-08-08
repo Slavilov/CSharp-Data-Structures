@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Write a Program to Store User Input in an Array", "1. Write a Program to Store User Input in an Array.csproj", "{2C7710A7-2B3A-4231-BD44-BC3E9D083B17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Find the Largest Number in an Array", "..\Find the Largest Number in an Array\2. Find the Largest Number in an Array.csproj", "{F38F2B4F-5C7F-488C-9ED6-57F724F988DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Find the Sum of All Array Elements", "..\Find the Sum of All Array Elements\3. Find the Sum of All Array Elements.csproj", "{D7C54D44-9CD2-4531-AE51-94EA25DC1C8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Count the Frequency of Each Element", "..\Count the Frequency of Each Element\4. Count the Frequency of Each Element.csproj", "{D62858EA-BF68-403B-9BDD-0943D1EFB151}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Average of All Elements in an Array", "..\5. Average of All Elements in an Array\5. Average of All Elements in an Array.csproj", "{C9B94088-624B-469A-8A74-AD5C00F4367E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Reverse an Array", "..\6. Reverse an Array\6. Reverse an Array.csproj", "{D0F9E665-4143-482A-8574-C2403F36A87A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7, Check if an Array is Sorted or Not", "..\7, Check if an Array is Sorted or Not\7, Check if an Array is Sorted or Not.csproj", "{0F2EC9A5-996B-47FA-8242-98CECB098902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Sort an Array", "..\8. Sort an Array\8. Sort an Array.csproj", "{71C5A5A2-A80E-404B-9ADC-2E965C35E31C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Find the Second Largest Number", "..\Find the Second Largest Number\9. Find the Second Largest Number.csproj", "{0014B39F-2EC7-462B-BE5E-0826F09346BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Merge Two Arrays", "..\10. Merge Two Arrays\10. Merge Two Arrays.csproj", "{9CC3B3BC-69B3-4601-A3D6-C25A282F1F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7710A7-2B3A-4231-BD44-BC3E9D083B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7710A7-2B3A-4231-BD44-BC3E9D083B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7710A7-2B3A-4231-BD44-BC3E9D083B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7710A7-2B3A-4231-BD44-BC3E9D083B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38F2B4F-5C7F-488C-9ED6-57F724F988DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38F2B4F-5C7F-488C-9ED6-57F724F988DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38F2B4F-5C7F-488C-9ED6-57F724F988DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38F2B4F-5C7F-488C-9ED6-57F724F988DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C54D44-9CD2-4531-AE51-94EA25DC1C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C54D44-9CD2-4531-AE51-94EA25DC1C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C54D44-9CD2-4531-AE51-94EA25DC1C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C54D44-9CD2-4531-AE51-94EA25DC1C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D62858EA-BF68-403B-9BDD-0943D1EFB151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62858EA-BF68-403B-9BDD-0943D1EFB151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62858EA-BF68-403B-9BDD-0943D1EFB151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62858EA-BF68-403B-9BDD-0943D1EFB151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B94088-624B-469A-8A74-AD5C00F4367E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B94088-624B-469A-8A74-AD5C00F4367E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B94088-624B-469A-8A74-AD5C00F4367E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B94088-624B-469A-8A74-AD5C00F4367E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F9E665-4143-482A-8574-C2403F36A87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F9E665-4143-482A-8574-C2403F36A87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F9E665-4143-482A-8574-C2403F36A87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F9E665-4143-482A-8574-C2403F36A87A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2EC9A5-996B-47FA-8242-98CECB098902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2EC9A5-996B-47FA-8242-98CECB098902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2EC9A5-996B-47FA-8242-98CECB098902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2EC9A5-996B-47FA-8242-98CECB098902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C5A5A2-A80E-404B-9ADC-2E965C35E31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C5A5A2-A80E-404B-9ADC-2E965C35E31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C5A5A2-A80E-404B-9ADC-2E965C35E31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C5A5A2-A80E-404B-9ADC-2E965C35E31C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0014B39F-2EC7-462B-BE5E-0826F09346BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0014B39F-2EC7-462B-BE5E-0826F09346BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0014B39F-2EC7-462B-BE5E-0826F09346BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0014B39F-2EC7-462B-BE5E-0826F09346BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC3B3BC-69B3-4601-A3D6-C25A282F1F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC3B3BC-69B3-4601-A3D6-C25A282F1F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC3B3BC-69B3-4601-A3D6-C25A282F1F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC3B3BC-69B3-4601-A3D6-C25A282F1F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E2C9819-E027-448A-9ECE-B88334DD1DCE}
+	EndGlobalSection
+EndGlobal
